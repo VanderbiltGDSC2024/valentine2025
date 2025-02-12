@@ -18,3 +18,6 @@
 
 Modified from:
 https://github.com/dessygil/valentines-day-react/blob/main/src/App.js#L43
+
+Possible deployment method with Github Pages:
+https://github.com/gitname/react-gh-pages?tab=readme-ov-file
